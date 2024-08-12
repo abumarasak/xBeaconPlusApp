@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright (c) 2014 XunTong. All Rights Reserved.
+  
+  The information contained herein is property of XunTong.
+  Terms and conditions of usage are described in detail in XunTong STANDARD SOFTWARE LICENSE AGREEMENT.
+  Licensees are granted free, non-transferable use of the information. NO WARRANTY of ANY KIND is provided. 
+  This heading must NOT be removed from the file.
+-->
+<level-list  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="10" android:drawable="@drawable/sigle_0" />
+    <item android:maxLevel="20" android:drawable="@drawable/sigle_1" />
+    <item android:maxLevel="40" android:drawable="@drawable/sigle_2" />
+    <item android:maxLevel="60" android:drawable="@drawable/sigle_3" />
+    <item android:maxLevel="80" android:drawable="@drawable/sigle_4" />
+    <item android:maxLevel="100" android:drawable="@drawable/sigle_5" />
+
+</level-list>
